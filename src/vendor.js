@@ -1,0 +1,6 @@
+import Vue from 'vue'
+import VueRouter from 'vue-router'
+import iview from 'iview'
+import djax from 'djax'
+import buffer from 'buffer'
+import 'iview/dist/styles/iview.css'
